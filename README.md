@@ -54,5 +54,5 @@ LEAVE sports
 Feel free to fork this project and submit pull requests to improve the functionality.
 
 ## License
-This project is open-source and available under the MIT License.
+This project is open-source and available under the Apache2.0 License.
 
